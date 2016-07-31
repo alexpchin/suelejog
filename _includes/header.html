@@ -4,24 +4,11 @@
       <div class="col-sm-12 col-md-6 col-lg-6 navigation">
         <h4>Navigation</h4>
         <ul class="list-unstyled menu">
-          <li>
-            <a href="{{ "/about" | prepend: site.baseurl }}">About</a>
-          </li>
-          <li>
-            <a href="{{ "/friends" | prepend: site.baseurl }}">Friends</a>
-          </li>
-          <li>
-            <a href="{{ "/" | prepend: site.baseurl }}">Blog</a>
-          </li>
-          <li>
-            <a href="{{ "/route" | prepend: site.baseurl }}">Route</a>
-          </li>
-          <li>
-            <a href="{{ "/kit-list" | prepend: site.baseurl }}">Kit List</a>
-          </li>
-          <li>
-            <a href="{{ "/cancer-research-uk" | prepend: site.baseurl }}">CRUK</a>
-          </li>
+          {% for link in site.data.links %}
+            <li>
+              <a href="{{ link.url | prepend: site.baseurl }}">{{ link.name }}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-6 hidden-sm-down about">
@@ -37,24 +24,11 @@
       &#9776;
     </button>
     <ul class="nav navbar-nav pull-right hidden-md-down">
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/" | prepend: site.baseurl }}">Blog</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/friends" | prepend: site.baseurl }}">Friends</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/route" | prepend: site.baseurl }}">Route</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/kit-list" | prepend: site.baseurl }}">Kit List</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/cancer-research-uk" | prepend: site.baseurl }}">CRUK</a>
-      </li>
+      {% for link in site.data.links %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.name }}</a>
+        </li>
+      {% endfor %}
     </ul>
     <a href="{{ site.baseurl }}/" class="navbar-brand"><img src="{{ site.assets }}/images/cancer-research.png" alt="Cancer Research Logo"> {{ site.title }}</a>
   </div>
