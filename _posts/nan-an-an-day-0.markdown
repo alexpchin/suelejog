@@ -1,0 +1,10 @@
+---
+layout: post
+title: Day 0
+date: '2016-08-05 09:00:00 +0000'
+categories: 'cancer-research, cycling, lejog'
+image: 'http://fillmurray.com/300/300'
+---
+
+
+The journey down to Land's End
