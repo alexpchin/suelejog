@@ -4,11 +4,10 @@ $(function(){
 });
 
 function resizeImages(){
-  var $images = $(".square img");
+  var $images = $(".thumbnail img");
   if ($images.length === -1) return;
   $.each($images, function(i, image){
-    if (image.width > image.height) image.classList.add('landscape');
-    else if (image.width < image.height) image.classList.add('portrait');
+    if (image.width < image.height) image.classList.add('portrait');
   });
 }
 
@@ -17,6 +16,6 @@ function resizePostImages(){
   if ($images.length === -1) return;
   $.each($images, function(i, image){
     if (image.width > image.height) image.classList.add('landscape');
-    else if (image.width < image.height) image.classList.add('portrait');
+    if (image.width < image.height) image.classList.add('portrait');
   });
 }

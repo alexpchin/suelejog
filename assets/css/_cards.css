@@ -4,10 +4,9 @@
   margin-bottom: 1rem;
   border: 0;
 
-  /*img {
+  img {
     margin-bottom: 0.75rem;
-    max-height: 300px;
-  }*/
+  }
 
   h2 {
     display: inline-block;
@@ -17,18 +16,30 @@
     }
   }
 
-  .square {
-    max-height: 300px;
+  .thumbnail {
+    position: relative;
+    max-width: 300px;
+    height: 300px;
     overflow: hidden;
+    margin: 0 0 0.75rem 0;
 
-    .landscape {
+    img {
+      position: absolute;
+      left: 50%;
+      top: 50%;
       height: 100%;
-    }
+      width: auto;
+      -webkit-transform: translate(-50%,-50%);
+          -ms-transform: translate(-50%,-50%);
+              transform: translate(-50%,-50%);
 
-    .portrait {
-      width: 100%;
+      &.portrait {
+        width: 100%;
+        height: auto;
+      }
     }
   }
+
 }
 
 .card-text {
