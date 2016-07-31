@@ -16,6 +16,22 @@
   }
 }
 
+.navbar-dark {
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        font-weight: 500;
+        display: block;
+        color: $magenta;
+        &:hover {
+          color: darken($magenta, 20%);
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
 .navbar-collapse .container-fluid {
   padding: 2rem 2.5rem;
   border-bottom: 1px solid $magenta;
@@ -31,13 +47,25 @@
 
 #navbar-header {
   background: $light-grey;
-}
+  padding: 1rem 0;
 
-.social a {
-  font-weight: 500;
-  color: $magenta;
+  .about {
+    text-align: justify;
+  }
 
-  &:hover {
-    color: darken($magenta, 20%)
+  .navigation {
+    .menu {
+      li {
+        a {
+          font-weight: 500;
+          display: block;
+          color: $magenta;
+          &:hover {
+            color: darken($magenta, 20%);
+            text-decoration: underline;
+          }
+        }
+      }
+    }
   }
 }

@@ -1,27 +1,41 @@
 <div class="navbar-collapse collapse inverse" id="navbar-header">
-  <div class="container-fluid">
-    <div class="about">
-      <h4>About</h4>
-      <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
-    </div>
-    <div class="social">
-      <h4>Navigation</h4>
-      <ul class="list-unstyled">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-        <li><a href="{{ site.justgiving }}" target="_blank">Sponsor</a></li>
-      </ul>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-6 col-lg-6 navigation">
+        <h4>Navigation</h4>
+        <ul class="list-unstyled menu">
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+              <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li><a href="{{ site.justgiving }}" target="_blank">Sponsor</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-6 hidden-sm-down about">
+        <h4>About</h4>
+        <p class="text-muted">{{ site.description }}</p>
+      </div>
     </div>
   </div>
 </div>
 <div class="navbar navbar-static-top navbar-dark bg-inverse">
   <div class="container">
-    <button class="navbar-toggler pull-right" type="button" data-toggle="collapse" data-target="#navbar-header">
+    <button class="navbar-toggler pull-right hidden-lg-up" type="button" data-toggle="collapse" data-target="#navbar-header">
       &#9776;
     </button>
+    <ul class="nav navbar-nav pull-right hidden-md-down">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+          <li class="nav-item">
+            <a  class="nav-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      <li class="nav-item">
+        <a  class="nav-link" href="{{ site.justgiving }}" target="_blank">Sponsor</a>
+      </li>
+    </ul>
     <a href="{{ site.baseurl }}/" class="navbar-brand"><img src="{{ "/public/images/cancer-research.png" | prepend: site.baseurl }}" alt="Cancer Research Logo"> {{ site.title }}</a>
   </div>
 </div>

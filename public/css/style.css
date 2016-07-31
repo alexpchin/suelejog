@@ -11,13 +11,14 @@
 
 .wrapper {
   min-height: 50rem;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding: 2rem 0;
   background-color: #f7f7f7;
-}
 
-.about {
-  float: left;
-  max-width: 30rem;
-  margin-right: 3rem;
+  hr {
+    margin: 2rem 0;
+  }
+
+  .module {
+    margin: 0 0 2rem !important;
+  }
 }

@@ -1,3 +1,8 @@
-.jg-widget {
-  margin: 0 auto;
+#jg-widget-sueduncombelejog-548 {
+  width: 100%;
+
+  .jg-widget {
+    float: left;
+    max-width: 100% !important;
+  }
 }
