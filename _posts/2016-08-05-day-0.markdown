@@ -3,14 +3,14 @@ layout: post
 title: Day 0
 date: 2016-08-05T00:00:00.000Z
 categories: 'cancer-research, cycling, lejog'
-image: /assets/images/ruby.jpg
+image: /assets/images/packed up.jpg
 description: This is a description
 ---
 
 
 The journey down to Land's End
 
-<br>![](/uploads/versions/img-0339---x----2448-3264x---.jpg)
+<br>![](/uploads/versions/ruby---x----960-722x---.jpg)
 
 That was where we stopped for lunch.
 
