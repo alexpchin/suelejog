@@ -8,6 +8,7 @@
 @import "_footer";
 @import "_buttons";
 @import "_justgiving";
+@import "_map";
 
 .wrapper {
   min-height: 50rem;

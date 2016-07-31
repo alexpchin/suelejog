@@ -3,7 +3,7 @@
 - name: Friends
   url: /friends
 - name: Blog
-  url: /
+  url: /blog
 - name: Route
   url: /route
 - name: Kit

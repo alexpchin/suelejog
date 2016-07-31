@@ -3,7 +3,15 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    {% include jumbotron.html %}
+
+    {% if page.url == "/" %}
+      {% include jumbotron.html %}
+    {% endif %}
+
+
+    {% if page.url == "/route/" %}
+      {% include map.html %}
+    {% endif %}
 
     <div class="wrapper text-muted">
       <div class="container">
