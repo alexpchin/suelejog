@@ -27,4 +27,10 @@
       color: $magenta;
     }
   }
+
+  .post {
+    img {
+      max-width: 300px;
+    }
+  }
 }
