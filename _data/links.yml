@@ -5,8 +5,8 @@
 - name: Blog
   url: /
 - name: Route
-  url: /route 
-- name: Kit List
-  url: /kit-list
+  url: /route
+- name: Kit
+  url: /kit
 - name: CRUK
   url: /cancer-research-uk
