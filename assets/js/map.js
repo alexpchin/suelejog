@@ -85,7 +85,7 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
   directionsService.route({
     origin: "50.0636344,-5.7145217",
     destination: "58.636691,-3.0827024",
-    waypoints: [],
+    waypoints: waypts,
     optimizeWaypoints: true,
     travelMode: 'DRIVING'
   }, function(response, status) {
