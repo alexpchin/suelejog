@@ -29,8 +29,12 @@
   }
 
   .post {
-    img {
+    .landscape {
       max-width: 300px;
+    }
+
+    .portrait {
+      max-height: 300px;
     }
   }
 }

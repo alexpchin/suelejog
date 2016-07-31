@@ -4,16 +4,29 @@
   margin-bottom: 1rem;
   border: 0;
 
-  img {
+  /*img {
     margin-bottom: 0.75rem;
-    width: 100%;
-  }
+    max-height: 300px;
+  }*/
 
   h2 {
     display: inline-block;
     span {
       font-size: 1rem;
       color: $grey;
+    }
+  }
+
+  .square {
+    max-height: 300px;
+    overflow: hidden;
+
+    .landscape {
+      height: 100%;
+    }
+
+    .portrait {
+      width: 100%;
     }
   }
 }
