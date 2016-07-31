@@ -1,0 +1,30 @@
+@import "_bower.css";
+
+@import "_variables";
+@import "_navbar.css";
+@import "_jumbotron.css";
+@import "_social-buttons.css";
+@import "_cards.css";
+@import "_footer.css";
+@import "_buttons.css";
+
+body {
+  min-height: 75rem; /* Can be removed; just added for demo purposes */
+}
+
+.about {
+  float: left;
+  max-width: 30rem;
+  margin-right: 3rem;
+}
+
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $blue;
+}

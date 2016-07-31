@@ -1,0 +1,43 @@
+{
+  "name": "suelejog",
+  "version": "1.0.0",
+  "description": "A website for Sue's trip from Land's End to John O'Groats for Cancer Research.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpchin/suelejog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpchin/suelejog/issues"
+  },
+  "homepage": "https://github.com/alexpchin/suelejog#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.7.3",
+    "cssnext": "^1.8.4",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-flatten": "^0.3.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-order": "^1.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "jshint": "^2.9.2",
+    "main-bower-files": "^2.13.1",
+    "postcss": "^5.1.1",
+    "postcss-import": "^8.1.2",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0"
+  }
+}

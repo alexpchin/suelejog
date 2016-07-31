@@ -1,0 +1,29 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0 !important;
+  background: white;
+
+  .navbar-brand {
+    color: $blue;
+    &:hover {
+      color: $magenta;
+    }
+  }
+}
+
+.navbar-collapse .container-fluid {
+  padding: 2rem 2.5rem;
+  border-bottom: 1px solid $magenta;
+}
+
+.navbar-collapse h4 {
+  color: #818a91;
+}
+
+.navbar-collapse .text-muted {
+  color: #818a91;
+}
+
+#navbar-header {
+  background: $light-grey;
+}

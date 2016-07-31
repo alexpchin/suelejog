@@ -1,0 +1,22 @@
+{
+  "name": "suelejog",
+  "homepage": "https://github.com/alexpchin/suelejog",
+  "authors": [
+    "alexpchin <alex@alexchin.co.uk>"
+  ],
+  "description": "A website for Sue's trip from Land's end to John O'Groats for Cancer Research.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.6.3",
+    "bootstrap": "v4.0.0-alpha.3"
+  }
+}

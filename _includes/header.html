@@ -1,9 +1,6 @@
-<header class="site-header">
-
+<!-- <header class="site-header">
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <a class="site-title" >{{ site.title }}</a>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -12,16 +9,39 @@
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
-
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+
       </div>
     </nav>
-
   </div>
+</header> -->
 
-</header>
+<div class="navbar-collapse collapse inverse" id="navbar-header">
+  <div class="container-fluid">
+    <div class="about">
+      <h4>About</h4>
+      <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
+    </div>
+    <div class="social">
+      <h4>Contact</h4>
+      <ul class="list-unstyled">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        <a href="#">Follow on Twitter</a></li>
+        <li><a href="#">Like on Facebook</a></li>
+        <li><a href="#">Email me</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="navbar navbar-static-top navbar-dark bg-inverse">
+  <div class="container">
+    <button class="navbar-toggler pull-right" type="button" data-toggle="collapse" data-target="#navbar-header">
+      &#9776;
+    </button>
+    <a href="{{ site.baseurl }}/" class="navbar-brand">{{ site.title }}</a>
+  </div>
+</div>
