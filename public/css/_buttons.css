@@ -1,4 +1,9 @@
 .btn-primary {
   background: $magenta;
   border-color: $magenta;
+
+  &:hover {
+    background: darken($magenta, 20%);
+    border-color: darken($magenta, 20%);
+  }
 }

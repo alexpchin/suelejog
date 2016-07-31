@@ -1,35 +1,23 @@
-@import "_bower.css";
+@import "_bower";
 
 @import "_variables";
-@import "_navbar.css";
-@import "_jumbotron.css";
-@import "_social-buttons.css";
-@import "_cards.css";
-@import "_footer.css";
-@import "_buttons.css";
-@import "_justgiving.css";
+@import "_typography";
+@import "_navbar";
+@import "_jumbotron";
+@import "_cards";
+@import "_footer";
+@import "_buttons";
+@import "_justgiving";
 
-body {
-  /*min-height: 75rem; */
+.wrapper {
+  min-height: 50rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
 }
 
 .about {
   float: left;
   max-width: 30rem;
   margin-right: 3rem;
-}
-
-.album {
-  min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #f7f7f7;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: $blue;
-}
-
-a {
-  color: $magenta;
 }

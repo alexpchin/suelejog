@@ -1,11 +1,10 @@
 title: Sue and friends LEJOG 2016
-email: your-email@domain.com
+email: joanna@joannachin.co.uk
 description: A 1011 mile cycle ride from Land’s End to John O’Groats in aid of Cancer Research UK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.suelejog.com"
-twitter_username: jekyllrb
-github_username:  jekyll
-just_giving: https://www.justgiving.com/fundraising/SueDuncombeLEJOG
+twitter_username: DuncombeSue
+justgiving: https://www.justgiving.com/SueDuncombeLEJOG
 future: true
 markdown: kramdown
 exclude: ['bower_components', 'node_modules', '.sass-cache', 'gulpfile', 'bower.json', README.md, 'package.json']

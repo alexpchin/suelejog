@@ -4,10 +4,18 @@
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
-}
 
-.card > img {
-  margin-bottom: .75rem;
+  img {
+    margin-bottom: 0.75rem;
+    max-width: 100%;
+  }
+
+  h2 {
+    span {
+      font-size: 1rem;
+      color: $grey;
+    }
+  }
 }
 
 .card-text {

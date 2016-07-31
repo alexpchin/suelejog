@@ -3,15 +3,15 @@
     <p class="pull-xs-right">
       <a href="#">Back to top</a>
     </p>
-    <ul>
-      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+
+    <ul class="list-unstyled">
+      <li><h4>Get in touch</h4></li>
+      <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email }}</a></li>
       {% if site.twitter_username %}
-        <li><a href="https://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></li>
+        <li><a href="https://www.twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{ site.twitter_username }}</a></li>
       {% endif %}
     </ul>
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-    <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
   </div>
 </footer>
 <script src="{{ "/public/dist/main.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>

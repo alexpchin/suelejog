@@ -32,3 +32,12 @@
 #navbar-header {
   background: $light-grey;
 }
+
+.social a {
+  font-weight: 500;
+  color: $magenta;
+
+  &:hover {
+    color: darken($magenta, 20%)
+  }
+}
