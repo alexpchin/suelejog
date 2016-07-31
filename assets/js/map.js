@@ -25,60 +25,60 @@ function initMap() {
 function calculateAndDisplayRoute(directionsService, directionsDisplay) {
   var waypts = [
     { // Wadebridge, Cornwall
-      value: "50.5163356,-4.8563235",
-      stopover: true
+      location: new google.maps.LatLng("50.5163356","-4.8563235"),
+      stopover: false
     },
-    { // Torrington, Devon
-      value: "50.9551317,-4.160616",
-      stopover: true
-    },
+    // { // Torrington, Devon
+    //   location: new google.maps.LatLng("50.9551317","-4.160616"),
+    //   stopover: false
+    // },
     { // Draycott, Somerset
-      value: "51.2548924,-2.7609042",
-      stopover: true
+      location: new google.maps.LatLng("51.2548924","-2.7609042"),
+      stopover: false
     },
-    { // Kerne Bridge, Herefordshire
-      value: "51.8675607,-2.6167956",
-      stopover: true
-    },
+    // { // Kerne Bridge, Herefordshire
+    //   location: new google.maps.LatLng("51.8675607","-2.6167956"),
+    //   stopover: false
+    // },
     { // Much Wenlock, Shropshire
-      value: "52.5964567,-2.578688",
-      stopover: true
+      location: new google.maps.LatLng("52.5964567","-2.578688"),
+      stopover: false
     },
-    { // Lymm, Cheshire
-      value: "53.3758952,-2.5141697",
-      stopover: true
-    },
+    // { // Lymm, Cheshire
+    //   location: new google.maps.LatLng("53.3758952","-2.5141697"),
+    //   stopover: false
+    // },
     { // Bentham, Lancashire
-      value: "54.1185887,-2.5253186",
-      stopover: true
+      location: new google.maps.LatLng("54.1185887","-2.5253186"),
+      stopover: false
     },
-    { // Brampton, Cumbria
-      value: "54.938158,-2.801354",
-      stopover: true
-    },
+    // { // Brampton, Cumbria
+    //   location: new google.maps.LatLng("54.938158","-2.801354"),
+    //   stopover: false
+    // },
     { // Peebles, Tweeddale
-      value: "55.6539588,-3.2046535",
-      stopover: true
+      location: new google.maps.LatLng("55.6539588","-3.2046535"),
+      stopover: false
     },
-    { // Dollar, Clackmannanshire
-      value: "56.1650768,-3.6897878",
-      stopover: true
-    },
+    // { // Dollar, Clackmannanshire
+    //   location: new google.maps.LatLng("56.1650768","-3.6897878"),
+    //   stopover: false
+    // },
     { // Spittal of Glenshee, Perthshire
-      value: "56.8114608,-3.4789556",
-      stopover: true
+      location: new google.maps.LatLng("56.8114608","-3.4789556"),
+      stopover: false
     },
-    { // Grantown-on-Spey, Moray
-      value: "57.3293565,-3.6282173",
-      stopover: true
-    },
-    { // Lairg, Sutherland
-      value: "58.0248831,-4.4165752",
-      stopover: true
-    },
+    // { // Grantown-on-Spey, Moray
+    //   location: new google.maps.LatLng("57.3293565","-3.6282173"),
+    //   stopover: false
+    // },
+    // { // Lairg, Sutherland
+    //   location: new google.maps.LatLng("58.0248831","-4.4165752"),
+    //   stopover: false
+    // },
     { // Melvich, Sutherland
-      value: "58.5554487,-3.9381336",
-      stopover: true
+      location: new google.maps.LatLng("58.5554487","-3.9381336"),
+      stopover: false
     }
   ];
 
