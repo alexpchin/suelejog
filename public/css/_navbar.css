@@ -8,6 +8,11 @@
     &:hover {
       color: $magenta;
     }
+
+    img {
+      display: inline-block;
+      max-height: 2rem;
+    }
   }
 }
 

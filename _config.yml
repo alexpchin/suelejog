@@ -6,7 +6,6 @@ url: "http://www.suelejog.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 just_giving: https://www.justgiving.com/fundraising/SueDuncombeLEJOG
-
+future: true
 markdown: kramdown
-
 exclude: ['bower_components', 'node_modules', '.sass-cache', 'gulpfile', 'bower.json', README.md, 'package.json']

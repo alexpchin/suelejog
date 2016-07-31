@@ -7,9 +7,10 @@
 @import "_cards.css";
 @import "_footer.css";
 @import "_buttons.css";
+@import "_justgiving.css";
 
 body {
-  min-height: 75rem; /* Can be removed; just added for demo purposes */
+  /*min-height: 75rem; */
 }
 
 .about {
@@ -27,4 +28,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: $blue;
+}
+
+a {
+  color: $magenta;
 }
