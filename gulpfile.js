@@ -21,7 +21,7 @@ const filter          = require('gulp-filter');
 const order           = require('gulp-order');
 const flatten         = require('gulp-flatten');
 
-const destFolder = "./public";
+const destFolder = "./assets";
 const bower      = mainBowerFiles({
   "overrides": {
     "bootstrap": {
