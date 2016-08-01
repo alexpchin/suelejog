@@ -3,8 +3,6 @@ layout: post
 title: Day 1
 date: 2016-08-06T09:00:00.000Z
 categories: 'cancer-research, cycling, lejog'
-image: /assets/images/cycling.jpg
+image: /assets/images/coming-soon.png
 description: This is a different description.
 ---
-
-
