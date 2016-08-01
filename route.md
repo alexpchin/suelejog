@@ -36,3 +36,15 @@ Staying at [The Oak House](www.theoakhousesomerset.com)
 Draycott, Somerset to Kerne Bridge, Herefordshire - 73 miles
 
 Staying at [The Hostelrie at Goodrich](http://www.thehostelrieatgoodrich.co.uk/)
+
+<u><strong>Wednesday 10 August (Day 5)</strong></u>
+
+Kerne Bridge, Herefordshire to Much Wenlock, Shropshire - 65 miles
+
+Staying at [The Raven Hotel](http://www.ravenhotel.com/)
+
+<u><strong>Thursday 11 August (Day 6)</strong></u>
+
+Much Wenlock, Shropshire to Lymm, Cheshire
+
+Staying with [Elizabeth](/friends/)
