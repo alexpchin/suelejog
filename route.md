@@ -99,8 +99,8 @@ Staying at [The Melvich Hotel](http://www.melvichhotel.co.uk/)
 
 Melvich to John O'Groats, Caithness - 37 miles
 
-John O'Groats to The Cairngorns by car - 147 miles
+John O'Groats to Cairngorms by car - 147 miles
 
 <u><strong>Sunday 21 August (Day 16)</strong></u>
 
-Cairngorns to Childrey by car - 519 miles
+Cairngorms to Childrey by car - 519 miles
