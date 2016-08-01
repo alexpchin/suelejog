@@ -2,7 +2,6 @@
 layout: post
 title:  "Day 5"
 date:   2016-08-10 09:00:00 +0000
-categories: cancer-research, cycling, lejog
 image: /assets/images/coming-soon.png
 description: Kerne Bridge to	Much Wenlock
 ---

@@ -9,6 +9,6 @@ twitter_username: DuncombeSue
 justgiving: https://www.justgiving.com/SueDuncombeLEJOG
 future: true
 markdown: kramdown
-assets: "/assets"
+assets: /assets
 include: ['assets/dist', 'assets/images']
 exclude: ['bower_components', 'node_modules', '.sass-cache', 'gulpfile', 'bower.json', README.md, 'package.json', 'config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'vendor']

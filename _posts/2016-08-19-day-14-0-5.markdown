@@ -2,7 +2,6 @@
 layout: post
 title:  "Day 14 1/2"
 date:   2016-08-20 09:00:00 +0000
-categories: cancer-research, cycling, lejog
 image: /assets/images/coming-soon.png
 description: Melvich to John O'Groats
 ---
