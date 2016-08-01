@@ -30,6 +30,12 @@
   }
 
   .post {
+    .image-container {
+      text-align: center;
+      background: white;
+      padding: 1rem;
+    }
+
     .landscape {
       max-width: 300px;
     }

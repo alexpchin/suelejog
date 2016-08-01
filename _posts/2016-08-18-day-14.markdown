@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Day 8"
-date:   2016-08-13 09:00:00 +0000
+title:  "Day 13"
+date:   2016-08-18 09:00:00 +0000
 categories: cancer-research, cycling, lejog
 image: /assets/images/coming-soon.png
-description: Bentham to	Brampton
+description: Lairg to Melvich, Sutherland
 ---

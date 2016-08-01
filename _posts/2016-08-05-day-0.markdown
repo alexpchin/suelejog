@@ -4,13 +4,13 @@ title: Day 0
 date: 2016-08-05T00:00:00.000Z
 categories: 'cancer-research, cycling, lejog'
 image: /assets/images/packed-up.jpg
-description: This is a description
+description: Childrey to Lands End
 ---
 
 
 The journey down to Land's End
 
-<br>![](/uploads/versions/ruby---x----960-722x---.jpg)
+![](/uploads/versions/ruby---x----960-722x---.jpg)
 
 That was where we stopped for lunch.
 

@@ -4,5 +4,5 @@ title:  "Day 6"
 date:   2016-08-11 09:00:00 +0000
 categories: cancer-research, cycling, lejog
 image: /assets/images/coming-soon.png
-description: This is a description
+description: Much Wenlock	to Lymm
 ---
