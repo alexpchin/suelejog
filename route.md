@@ -75,4 +75,32 @@ Staying at [T](__notset__)[ormaukin Hotel](www.tormaukinhotel.co.uk)
 
 Dollar to Spittal of Glenshee, Perthshire - 75 miles
 
-Staying at The Strathardle Inn
+Staying at [The Strathardle Inn](http://strathardleinn.co.uk/)
+
+<u><strong>Wednesday 17 August (Day 12)</strong></u>
+
+Glenshee to Grantown-on-Spey, Moray - 62 miles
+
+Staying at [The Highland B&B](http://www.accommodationcairngorms.co.uk/)
+
+<u><strong>Thursday 18 August (Day 13)</strong></u>
+
+Grantown-on-Spey to Lairg, Sutherland - 85 miles
+
+Staying at [The Highland Hotel](http://www.highland-hotel.co.uk/)
+
+<u><strong>Friday 19 August (Day 14)</strong></u>
+
+Lairg to Melvich, Sutherland - 59 miles
+
+Staying at [The Melvich Hotel](http://www.melvichhotel.co.uk/)
+
+<u><strong>Saturday 20 August (Day 14 1/2)</strong></u>
+
+Melvich to John O'Groats, Caithness - 37 miles
+
+John O'Groats to The Cairngorns by car - 147 miles
+
+<u><strong>Sunday 21 August (Day 16)</strong></u>
+
+Cairngorns to Childrey by car - 519 miles
