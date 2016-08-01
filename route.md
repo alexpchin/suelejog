@@ -5,7 +5,9 @@ permalink: /route/
 ---
 
 
-**Friday 5 August**
+&nbsp;
+
+<u><strong>Friday 5 August</strong></u>
 
 Childrey to Land's End by car
 
