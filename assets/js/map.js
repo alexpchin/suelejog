@@ -1,11 +1,24 @@
+var map;
+
 function initMap() {
   if ($("#map").length === 0) return;
-
   var directionsService = new google.maps.DirectionsService;
-  var directionsDisplay = new google.maps.DirectionsRenderer;
-  var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 8,
-    center: {lat: 53.1280137, lng: -1.5884946},
+  var directionsDisplay = new google.maps.DirectionsRenderer({
+    polylineOptions: {
+      strokeColor: "#e40085",
+      strokeOpacity: 1,
+      strokeWeight: 3
+    },
+    suppressMarkers: true,
+    preserveViewport: true
+  });
+
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 5,
+    center: {
+      lat: 54.994219,
+      lng: -3.624867
+    },
     scrollwheel:  false,
     draggable: false,
     disableDoubleClickZoom: true,
@@ -90,7 +103,19 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
     optimizeWaypoints: true,
     travelMode: 'DRIVING'
   }, function(response, status) {
-    if (status === 'OK') return directionsDisplay.setDirections(response);
-    console.error('Directions request failed due to ' + status);
+    if (status === 'OK') {
+      directionsDisplay.setDirections(response);
+
+      var startMarker = new google.maps.Marker({
+        position: {lat: 50.0636344, lng: -5.7145217},
+        map: map,
+        label: 'A'
+      });
+      var endMarker = new google.maps.Marker({
+        position:{lat: 58.636691, lng: -3.0827024},
+        map: map,
+        label: 'B'
+      });
+    }
   });
 }
