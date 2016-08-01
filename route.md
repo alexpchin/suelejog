@@ -5,8 +5,6 @@ permalink: /route/
 ---
 
 
-&nbsp;
-
 <u><strong>Friday 5 August</strong></u>
 
 Childrey, Oxfordshire to Land's End, Cornwall by car - 254 miles
@@ -60,3 +58,21 @@ Staying at [Plato's](http://www.platoskirkbylonsdale.co.uk/)
 Bentham to Brampton, Cumbria - 70 miles
 
 Staying at [The Scotch Arms Mews](http://www.thescotcharmsmews.co.uk/)
+
+<u><strong>Sunday 14 August (Day 9)</strong></u>
+
+Brampton to Peebles, Tweeddale - 74 miles
+
+Staying at [The Macdonald Cardrona Hotel, Golf & Spa](http://www.macdonaldhotels.co.uk/our-hotels/macdonald-cardrona-hotel-golf-spa/)
+
+<u><strong>Monday 15 August (Day 10)</strong></u>
+
+Peebles to Dollar, Clackmannshire - 63 miles
+
+Staying at [T](__notset__)[ormaukin Hotel](www.tormaukinhotel.co.uk)
+
+<u><strong>Tuesday 16 August (Day 11)</strong></u>
+
+Dollar to Spittal of Glenshee, Perthshire - 75 miles
+
+Staying at The Strathardle Inn
