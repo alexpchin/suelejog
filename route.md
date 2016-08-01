@@ -13,7 +13,7 @@ Childrey to Land's End by car - 254 miles
 
 Staying at [Cape Cornwall Golf & Leisure](http://capecornwallgolfclub.co.uk/)
 
-Saturday 6 August
+<u><strong>Saturday 6 August</strong></u>
 
 Land's End to Wadebridge - 67 miles
 
