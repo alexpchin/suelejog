@@ -7,8 +7,11 @@ function initMap() {
     zoom: 8,
     center: {lat: 53.1280137, lng: -1.5884946},
     scrollwheel:  false,
-    draggable: true,
+    draggable: false,
+    disableDoubleClickZoom: true,
+    panControl: false,
     streetViewControl: false,
+    disableDefaultUI: true
   });
   directionsDisplay.setMap(map);
   calculateAndDisplayRoute(directionsService, directionsDisplay);
