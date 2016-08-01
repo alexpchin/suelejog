@@ -4,7 +4,7 @@ title: Day 0
 date: 2016-08-05T00:00:00.000Z
 categories: 'cancer-research, cycling, lejog'
 image: /assets/images/packed-up.jpg
-description: "Childrey, Oxfordshire to Land's End, Cornwall"
+description: "Childrey, Oxfordshire to \nLand's End, Cornwall"
 ---
 
 
