@@ -5,6 +5,8 @@ permalink: /route/
 ---
 
 
-[Raven Hotel](http://www.ravenhotel.com/)
+Friday 5 August
 
-&nbsp;
+Childrey to Land's End by car
+
+Staying at [Cape Cornwall Golf & Leisure](http://capecornwallgolfclub.co.uk/)
