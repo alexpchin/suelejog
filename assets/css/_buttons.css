@@ -3,7 +3,7 @@
   border-color: $magenta;
 
   &:hover {
-    background: darken($magenta, 20%);
-    border-color: darken($magenta, 20%);
+    background: $magenta-dark;
+    border-color: $magenta-dark;
   }
 }

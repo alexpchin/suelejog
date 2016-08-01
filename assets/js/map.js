@@ -1,5 +1,5 @@
 function initMap() {
-  if ($("#map").length === -1) return;
+  if ($("#map").length === 0) return;
 
   var directionsService = new google.maps.DirectionsService;
   var directionsDisplay = new google.maps.DirectionsRenderer;
