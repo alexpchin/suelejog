@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kit
-permalink: /kit/
+title: Fuel
+permalink: /fuel/
 ---
 
 
