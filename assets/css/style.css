@@ -34,14 +34,14 @@
       text-align: center;
       background: white;
       padding: 1rem;
-    }
 
-    .landscape {
-      max-width: 450px;
-    }
+      .landscape {
+        max-width: 450px;
+      }
 
-    .portrait {
-      max-height: 300px;
+      .portrait {
+        max-height: 300px;
+      }
     }
   }
 }

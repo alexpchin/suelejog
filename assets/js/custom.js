@@ -15,6 +15,7 @@ function resizePostImages(){
   var $images = $(".post img");
   if ($images.length === -1) return;
   $.each($images, function(i, image){
+    if ($(image).parent().hasClass("thumbnail")) return false;
     $(image).wrap("<div class='image-container'></div>");
     if (image.width > image.height) image.classList.add('landscape');
     if (image.width < image.height) image.classList.add('portrait');
