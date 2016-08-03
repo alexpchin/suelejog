@@ -5,11 +5,9 @@ permalink: /route/
 ---
 
 
-&nbsp;
+The popular LEJOG challenge is the traversal of the whole length of the island of Great Britain, between two extremities in the Southwest and Northeast: Land's End in Cornwall and John O'Groats in Caithness. The traditional distance by road is 847 miles but Sue will be following a more scenic route covering a total of 1011 miles in 14.5 days.
 
-The popular LEJOG challenge is the traversal of the whole length of the island of Great Britain, between two extremities in the Southwest and Northeast: Land's End in Cornwall and John O'Groats in Caithness. The traditional distance by road is 847 miles but Sue will be following a more scenic route that covers 1011 miles in 14.5 days.
-
-The map gives an outline of the route that Sue will be taking but cycling aficienados can take a closer look at the detail in [MapmyRide](http://www.mapmyride.com/routes/view/1196775271)
+The map above gives an outline of the route that Sue will be taking. Cycling aficionados can take a closer look at the detail in [MapmyRide](http://www.mapmyride.com/routes/view/1196775271)
 
 <u><strong>Friday 5 August</strong></u>
 
