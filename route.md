@@ -91,11 +91,15 @@ Staying at [The Macdonald Cardrona Hotel, Golf & Spa](http://www.macdonaldhotels
 
 Peebles to Dollar, Clackmannshire - 63 miles
 
+*Passing through Leadburn, Queensferry, Inverkeithing, Cowdenbeath and Crook of Devon*
+
 Staying at [T](__notset__)[ormaukin Hotel](www.tormaukinhotel.co.uk)
 
 <u><strong>Tuesday 16 August (Day 11)</strong></u>
 
 Dollar to Spittal of Glenshee, Perthshire - 75 miles
+
+*Passing through Dunning, Glenalmond, Stanley, Caputh, Blairgowrie, Bridge of Cally and Dalnaglar Castle*
 
 Staying at [The Strathardle Inn](http://strathardleinn.co.uk/)
 
