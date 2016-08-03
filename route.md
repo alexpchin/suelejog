@@ -27,6 +27,8 @@ Staying at [Trewornan Manor](http://www.trewornanmanor.co.uk/)
 
 Wadebridge to Torrington, Devon - 53 miles
 
+*Passing through Tintagel, Boscastle, Widemouth Bay, Stratton and Stibb Cross*
+
 Staying at [The Pines at Eastleigh](http://www.thepinesateastleigh.co.uk/)
 
 <u><strong>Monday 8 August (Day 3)</strong></u>
