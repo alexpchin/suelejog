@@ -59,6 +59,8 @@ Staying at [The Raven Hotel](http://www.ravenhotel.com/)
 
 Much Wenlock to Lymm, Cheshire - 72 miles
 
+*Passing through Wrockwardine, Stoke on Tern, Market Drayton, Nantwich, Middlewich and Knutsford*
+
 Staying with [Elizabeth](/friends/)
 
 <u><strong>Friday 12 August (Day 7)</strong></u>
