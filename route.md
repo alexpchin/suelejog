@@ -19,7 +19,7 @@ Staying at [Cape Cornwall Golf & Leisure](http://capecornwallgolfclub.co.uk/)
 
 Land's End to Wadebridge, Cornwall - 67 miles
 
-*Passing through Penzance, Marazion, Truro, St Newlyn East and Winnard's Perch*
+*Passing through Penzance, Marazion, Godolphin Cross, Truro, St Newlyn East and Winnard's Perch*
 
 Staying at [Trewornan Manor](http://www.trewornanmanor.co.uk/)
 
