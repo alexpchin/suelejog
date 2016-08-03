@@ -7,6 +7,10 @@ permalink: /route/
 
 &nbsp;
 
+The popular LEJOG challenge is the traversal of the whole length of the island of Great Britain, between two extremities in the Southwest and Northeast: Land's End in Cornwall and John O'Groats in Caithness. The traditional distance by road is 847 miles but Sue will be following a more scenic route that covers 1011 miles in 14.5 days.
+
+The map above shows the route that Sue will be taking but cycling aficienados might want to take a closer look in [MapmyRide](http://www.mapmyride.com/routes/view/1196775271)
+
 <u><strong>Friday 5 August</strong></u>
 
 Childrey, Oxfordshire to Land's End, Cornwall by car - 254 miles
@@ -83,7 +87,7 @@ Staying at [The Strathardle Inn](http://strathardleinn.co.uk/)
 
 Glenshee to Grantown-on-Spey, Moray - 62 miles
 
-Staying at [Bydand B&B](www.highlandbnb.co.uk )
+Staying at [Bydand B&B](www.highlandbnb.co.uk)
 
 <u><strong>Thursday 18 August (Day 13)</strong></u>
 
