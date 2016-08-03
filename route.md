@@ -83,7 +83,7 @@ Staying at [The Strathardle Inn](http://strathardleinn.co.uk/)
 
 Glenshee to Grantown-on-Spey, Moray - 62 miles
 
-Staying at [The Highland B&B](http://www.accommodationcairngorms.co.uk/)
+Staying at [Bydand B&B](www.highlandbnb.co.uk )
 
 <u><strong>Thursday 18 August (Day 13)</strong></u>
 
