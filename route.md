@@ -67,6 +67,8 @@ Staying with [Elizabeth](/friends/)
 
 Lymm to Bentham, Lancashire - 70 miles
 
+*Passing through Leigh, Wheelton, Salmesbury Bottoms, Whalley, Cow Ark and the Forest of Bowland AONB*
+
 Staying at [Plato's](http://www.platoskirkbylonsdale.co.uk/)
 
 <u><strong>Saturday 13 August (Day 8)</strong></u>
