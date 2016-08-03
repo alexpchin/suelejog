@@ -107,6 +107,8 @@ Staying at [The Strathardle Inn](http://strathardleinn.co.uk/)
 
 Glenshee to Grantown-on-Spey, Moray - 62 miles
 
+*Passing through Braemar, Crathie, Cock Bridge, Tomintoul and Bridge of Brown*
+
 Staying at [Bydand Bed & Breakfast](www.highlandbnb.co.uk)
 
 <u><strong>Thursday 18 August (Day 13)</strong></u>
