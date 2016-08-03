@@ -2,7 +2,7 @@
 layout: post
 title: Day 1
 date: 2016-08-06T09:00:00.000Z
-image: /assets/images/ruby.jpg
+image:
 description: Lands End to Wadebridge
 ---
 
