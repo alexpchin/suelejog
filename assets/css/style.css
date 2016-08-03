@@ -14,6 +14,7 @@
   min-height: 50rem;
   padding: 2rem 0;
   background-color: #f7f7f7;
+  text-align: justify;
 
   hr {
     margin: 2rem 0;
@@ -30,6 +31,10 @@
   }
 
   .post {
+    img {
+      max-width: 100%;
+    }
+
     .image-container {
       text-align: center;
       background: white;

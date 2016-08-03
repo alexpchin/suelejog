@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Day 4"
+date:   2016-08-09 09:00:00 +0000
+image: /assets/images/coming-soon.png
+description: Draycott to Kerne Bridge
+---
