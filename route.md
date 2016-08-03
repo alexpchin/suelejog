@@ -115,6 +115,8 @@ Staying at [Bydand Bed & Breakfast](www.highlandbnb.co.uk)
 
 Grantown-on-Spey to Lairg, Sutherland - 85 miles
 
+*Passing through Dulsie, Urchany, Inverness, Munlochy, Evanton, Bonar Bridge and Achinduich*
+
 Staying at [The Highland Hotel](http://www.highland-hotel.co.uk/)
 
 <u><strong>Friday 19 August (Day 14)</strong></u>
