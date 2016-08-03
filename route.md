@@ -31,7 +31,7 @@ Staying at [The Pines at Eastleigh](http://www.thepinesateastleigh.co.uk/)
 
 Torrington to Draycott, Somerset - 78 miles
 
-Staying at [The Oak House](www.theoakhousesomerset.com)
+Staying at [The Oak House](http://www.theoakhousesomerset.com/)
 
 <u><strong>Tuesday 9 August (Day 4)</strong></u>
 
