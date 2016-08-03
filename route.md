@@ -31,11 +31,15 @@ Staying at [The Pines at Eastleigh](http://www.thepinesateastleigh.co.uk/)
 
 Torrington to Draycott, Somerset - 78 miles
 
+*Passing through Chittlehampton, South Molton, Winsford, Bishop's Lydeard, Bridgewater and Wedmore*
+
 Staying at [The Oak House](http://www.theoakhousesomerset.com/)
 
 <u><strong>Tuesday 9 August (Day 4)</strong></u>
 
 Draycott to Kerne Bridge, Herefordshire - 73 miles
+
+![](/uploads/versions/screen shot 2016-08-03 at 14.27.28---x----617-149x---.png)
 
 Staying at [The Hostelrie at Goodrich](http://www.thehostelrieatgoodrich.co.uk/)
 
