@@ -123,11 +123,15 @@ Staying at [The Highland Hotel](http://www.highland-hotel.co.uk/)
 
 Lairg to Melvich, Sutherland - 59 miles
 
+*Passing through Crask Inn, Altnaharra, Rhifail, Bettyhill and Strathy*
+
 Staying at [The Melvich Hotel](http://www.melvichhotel.co.uk/)
 
 <u><strong>Saturday 20 August (Day 14 1/2)</strong></u>
 
 Melvich to John O'Groats, Caithness - 37 miles
+
+*Passing through Reay, Lybster, Thurso, Castletown and Mey*
 
 John O'Groats to Cairngorms by car - 147 miles
 
