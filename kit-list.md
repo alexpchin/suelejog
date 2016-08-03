@@ -30,7 +30,7 @@ Standard foodstuffs will be supplemented with:
 *Apple Crumble naturally flavoured energy gel formulated with research-proven 2:1 Maltodextrin:Fructose multiple-transportable carbohydrates for extremely fast carbohydrate delivery.*
 
 *![](/uploads/versions/img_3467---x----960-1280x---.jpg)*
-<br>**[SiS REGO](http://www.scienceinsport.com/uk/shop-sis/rego-range?gclid=CIDbqvWqpc4CFUGfGwodpwoMLQ) Recovery Drink – vanilla flavour**
+<br>**[SiS REGO](http://www.scienceinsport.com/uk/shop-sis/rego-range?gclid=CIDbqvWqpc4CFUGfGwodpwoMLQ) Recovery Drink – Vanilla flavour**
 
 Complete recovery product - a blend of protein, carbohydrate, electrolytes & minerals. Use after exercise to help muscles recover & rebuild.
 
