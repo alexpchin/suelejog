@@ -5,6 +5,8 @@ permalink: /fuel/
 ---
 
 
+&nbsp;
+
 Ruby, my trusty steed, relies 100% on my pedal power. Having researched appropriate nutrition for LEJOG, I realised that eating an extra banana each day isn't going to be enough to drive me along the 1011 miles and up more than 62,000 ft of hills.
 
 I read an interesting article about ‘Bonking on the Bike’. I have to admit my motivation to read it was aligned to a curiosity about how one manages to maintain balance. Two sentences in, I realised that the article was about ‘hitting the wall’ rather than any sexual practice which would include Ruby and a 3<sup>rd</sup> party!
