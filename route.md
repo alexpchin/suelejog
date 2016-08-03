@@ -39,8 +39,6 @@ Staying at [The Oak House](http://www.theoakhousesomerset.com/)
 
 Draycott to Kerne Bridge, Herefordshire - 73 miles
 
-![](/uploads/versions/screen shot 2016-08-03 at 14.27.28---x----617-149x---.png)
-
 Staying at [The Hostelrie at Goodrich](http://www.thehostelrieatgoodrich.co.uk/)
 
 <u><strong>Wednesday 10 August (Day 5)</strong></u>
