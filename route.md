@@ -43,6 +43,8 @@ Staying at [The Oak House](http://www.theoakhousesomerset.com/)
 
 Draycott to Kerne Bridge, Herefordshire - 73 miles
 
+Passing through Cheddar, Saltford, Pucklechurch, Alveston, Pwllmeyric, St Arvans, Tintern Parva, Coleford and English Bicknor
+
 Staying at [The Hostelrie at Goodrich](http://www.thehostelrieatgoodrich.co.uk/)
 
 <u><strong>Wednesday 10 August (Day 5)</strong></u>
