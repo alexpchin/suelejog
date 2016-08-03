@@ -75,11 +75,15 @@ Staying at [Plato's](http://www.platoskirkbylonsdale.co.uk/)
 
 Bentham to Brampton, Cumbria - 70 miles
 
+*Passing through Kirkby Lonsdale, Tebay, Edenhall and Kirkoswold*
+
 Staying at [The Scotch Arms Mews](http://www.thescotcharmsmews.co.uk/)
 
 <u><strong>Sunday 14 August (Day 9)</strong></u>
 
 Brampton to Peebles, Tweeddale - 74 miles
+
+*Passing through Hethersgill, Catlowdy, Langholm, Eskdalemuir, Hopehouse, Mountbenger and Cardrona*
 
 Staying at [The Macdonald Cardrona Hotel, Golf & Spa](http://www.macdonaldhotels.co.uk/our-hotels/macdonald-cardrona-hotel-golf-spa/)
 
