@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 13
-date:
+date: 016-08-18 09:00:00 +0000
 image: /assets/images/coming-soon.png
 description: Grantown-on-Spey to Lairg
 ---
