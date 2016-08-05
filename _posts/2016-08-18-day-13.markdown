@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Day 13"
-date:   2016-08-18 09:00:00 +0000
+title: Day 13
+date:
 image: /assets/images/coming-soon.png
-description: Glenshee to Grantown-on-Spey
+description: Grantown-on-Spey to Lairg
 ---
+
+
