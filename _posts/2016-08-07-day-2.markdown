@@ -7,13 +7,15 @@ description: Wadebridge to Great Torrington
 ---
 
 
+&nbsp;
+
 Cyclist = Jonny
 
 Departure from Trewornan Manor = 9.55am
 
-Miles cycled = 56.9 (the shortest day of the whole tour)
+Miles cycled = 56.9 (the shortest of the whole tour)
 
-Total ascent = 5,735ft (the greatest I've ever done in a day)
+Total ascent = 5,735ft (the most ever done in a day)
 
 Wrong turns = 0 (hurrah!)
 
