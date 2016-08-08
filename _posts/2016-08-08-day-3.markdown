@@ -7,3 +7,15 @@ description: Great Torrington to Draycott
 ---
 
 
+&nbsp;
+
+Cyclist = Karen
+
+Departure from Great Torrington = 9.45am
+<br>Miles cycled = 80.4
+<br>Total ascent = 6,647ft (another daily record)
+<br>Wrong turns = 2
+<br>Flies swallowed = 2
+
+Counties = Devon, Somerset
+<br>Arrival in Draycott = 5.50pm
