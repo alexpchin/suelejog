@@ -10,18 +10,13 @@ description: Wadebridge to Great Torrington
 &nbsp;
 
 Cyclist = Jonny
+<br>Departure from Trewornan Manor = 9.55am
+<br>Miles cycled = 56.9 (shortest day of the whole tour)
+<br>Total ascent = 5,735ft (the most I've ever done in a day)
+<br>Wrong turns = 0 (hurrah!)
 
-Departure from Trewornan Manor = 9.55am
-
-Miles cycled = 56.9 (the shortest of the whole tour)
-
-Total ascent = 5,735ft (the most I've ever done in a day)
-
-Wrong turns = 0 (hurrah!)
-
-Counties = Cornwall, Devon
-
-Arrival in Great Torrington = 6.03pm
+Counties = Devon, Cornwall
+<br>Arrival in Great Torrington = 5.35pm
 
 After the pleasure of the Egyptian cotton sheets on our super-comfy beds at Trewornan Manor, we experienced the delights of the best B&B breakfast any of us had ever had. Bowls of fresh fruit, poached plums, fruit compote and homemade granola; fluffy blueberry pancakes with maple syrup; avocado on toast; scrambled eggs and bacon and nutty granary toast with marmalade. The food was delicious and plentiful.
 
