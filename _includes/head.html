@@ -2,30 +2,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  {% if page.description %}
-    <meta content="{{ page.description }}" property="og:description">
-  {% else %}
-    <meta content="{{ site.description }}" property="og:description">
-  {% endif %}
-  <meta property="og:site_name" content="{{ site.short_description }}">
-  {% if page.title %}
-    <meta content="{{ site.title }} - {{ page.title }}" property="og:title">
-  {% else %}
-    <meta content="{{ site.title }}" property="og:title">
-  {% endif %}
-  {% if page.title %}
-    <meta content="article" property="og:type">
-  {% else %}
-    <meta content="website" property="og:type">
-  {% endif %}
-  {% if page.image %}
-    <meta content="{{ page.image }}" property="og:image">
-    <meta content="{{ page.image }}" property="og:image:url">
-  {% else %}
-    <meta content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png" property="og:image">
-    <meta content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png" property="og:image:url">
-  {% endif %}
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
+  <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:locale" content="en_GB">
   <meta property="og:locale:alternate" content="en_US">

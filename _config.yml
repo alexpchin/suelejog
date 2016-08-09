@@ -11,5 +11,6 @@ future: true
 markdown: kramdown
 assets: /assets
 permalink: /:title/
+logo: /assets/images/sue-headshot.png
 include: ['assets/dist', 'assets/images']
 exclude: ['bower_components', 'node_modules', '.sass-cache', 'gulpfile', 'bower.json', README.md, 'package.json', 'config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'vendor']
