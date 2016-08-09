@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ site.title }} - {{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% elsif post.title %}{{ site.title }} - {{ post.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
   <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
   <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}">
@@ -28,7 +28,7 @@
   <meta name="msapplication-TileImage" content="{{ site.assets }}/images/favicons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
   <link rel="shortcut icon" href="{{ site.assets }}/images/favicons/favicon.ico" type="image/x-icon" />
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ site.title }} - {{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% elsif post.title %}{{ site.title }} - {{ post.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ site.assets }}/dist/style.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
