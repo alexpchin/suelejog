@@ -7,7 +7,7 @@
   <meta property="og:title" content="{% if page.title %}{{ site.title }} - {{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% elsif post.title %}{{ site.title }} - {{ post.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
   <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
   <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:locale" content="en_GB">
   <meta property="og:locale:alternate" content="en_US">
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.assets }}/images/favicons/apple-icon-57x57.png">
