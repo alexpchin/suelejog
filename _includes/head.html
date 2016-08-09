@@ -2,12 +2,30 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:image" content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png">
-  <meta property="og:image:url" content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png">
-  <meta property="og:description" content="{{ site.description }}">
+
+  {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+  {% endif %}
   <meta property="og:site_name" content="{{ site.short_description }}">
-  <meta property="og:title" content="{{ site.short_description }}">
-  <meta property="og:type" content="website">
+  {% if page.title %}
+    <meta content="{{ site.title }} - {{ page.title }}" property="og:title">
+  {% else %}
+    <meta content="{{ site.title }}" property="og:title">
+  {% endif %}
+  {% if page.title %}
+    <meta content="article" property="og:type">
+  {% else %}
+    <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.image %}
+    <meta content="{{ page.image }}" property="og:image">
+    <meta content="{{ page.image }}" property="og:image:url">
+  {% else %}
+    <meta content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png" property="og:image">
+    <meta content="{{ site.url }}{{ site.assets }}/images/sue-headshot.png" property="og:image:url">
+  {% endif %}
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:locale" content="en_GB">
   <meta property="og:locale:alternate" content="en_US">
