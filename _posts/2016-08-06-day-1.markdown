@@ -7,12 +7,14 @@ description: Lands End to Wadebridge
 ---
 
 
-Departure from Land's End = 9.55am
-<br>Miles cycled = 67.4
-<br>Total ascent = 5371ft
-<br>Wrong turns = 3 (all in Truro)
-<br>Falls = 1 (at 0 mph)
-<br>Arrival in Wadebridge = 5.35pm
+* Departure from Land's End = 9.55am
+* Miles cycled = 67.4
+* Total ascent = 5371ft
+* Wrong turns = 3 (all in Truro)
+* Falls = 1 (at 0 mph)
+* Arrival in Wadebridge = 5.35pm
+* Another stat
+
 
 After a hearty breakfast, we drove the 7 miles from the hotel to Land's End and the start of LEJOG. Before setting off, we had our photographs taken in front of the privately-run, '&pound;9.95-for-a-photo' sign. It was all a bit emotional for me, as I was asked what I wanted the sign to say. We did our posing, exchanged good wishes with a couple of cyclists and their support team who were doing LEJOG for Pancreatic Cancer in memory of a family member, Caroline, and then we set off for John O'Groats!
 
