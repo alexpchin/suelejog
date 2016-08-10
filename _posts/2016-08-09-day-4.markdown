@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Day 4"
-date:   2016-08-09 09:00:00 +0000
-image: /assets/images/coming-soon.png
+title: Day 4
+date: 2016-08-09T00:00:00.000Z
+image:
 description: Draycott to Kerne Bridge
 ---
+
+
+<br>Another day done and all is well. Our account will be uploaded, as soon as we get a decent wifi signall....
