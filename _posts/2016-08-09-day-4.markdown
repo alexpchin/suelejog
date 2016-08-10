@@ -2,7 +2,7 @@
 layout: post
 title: Day 4
 date: 2016-08-09T00:00:00.000Z
-image:
+image: /assets/images/coming-soon.png
 description: Draycott to Kerne Bridge
 ---
 
