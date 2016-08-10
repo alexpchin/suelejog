@@ -2,11 +2,9 @@
 layout: post
 title: Day 4
 date: 2016-08-09T00:00:00.000Z
-image: /assets/images/coming-soon.png
+image: /assets/images/p1100252.jpg
 description: Draycott to Kerne Bridge
 ---
 
 
 <br>Another day done and all is well. Our account will be uploaded, as soon as we get a decent wifi signal….
-
-&nbsp;
