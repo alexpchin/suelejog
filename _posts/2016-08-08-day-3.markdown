@@ -7,16 +7,15 @@ description: Great Torrington to Draycott
 ---
 
 
-Cyclist = Karen
+* Cyclist = Karen
+* Departure from Great Torrington = 9.45am
+* Miles cycled = 80.4
+* Total ascent = 6,647ft (another daily record)
+* Wrong turns = 2
+* Flies swallowed = 2
+* Counties = Devon, Somerset
+* Arrival in Draycott = 5.50pm
 
-Departure from Great Torrington = 9.45am
-<br>Miles cycled = 80.4
-<br>Total ascent = 6,647ft (another daily record)
-<br>Wrong turns = 2
-<br>Flies swallowed = 2
-
-Counties = Devon, Somerset
-<br>Arrival in Draycott = 5.50pm
 
 The sound of Bruce Springsteen playing Promised Land woke me at 6.15am. Sadly, it was my alarm going off, so I jumped up and got on with the 'stuff' that needs to be prepared as part of the morning routine. This includes tracing the route from MapMyRide onto my copy of the road atlas for contingency purposes. Jo then 'copies my homework' into her atlas over breakfast and we decide where the support stops should be. With all this to do, there was little time to worry about the dreaded Day 3.&nbsp;
 
