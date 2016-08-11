@@ -7,8 +7,6 @@ description: Wadebridge to Great Torrington
 ---
 
 
-&nbsp;
-
 * Cyclist = Jonny
 * Departure from Trewornan Manor = 9.55am
 * Miles cycled = 56.9 (shortest day of the whole tour)
