@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Day 8"
-date:   2016-08-13 09:00:00 +0000
-image: /assets/images/coming-soon.png
-description: Bentham to	Brampton
+title: Day 8
+date: 2016-08-13T00:00:00.000Z
+image: /assets/images/p1100483.jpg
+description: "Bentham to\tBrampton"
 ---
+
+
