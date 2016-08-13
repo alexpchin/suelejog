@@ -2,7 +2,7 @@
 layout: post
 title: Day 8
 date: 2016-08-13T00:00:00.000Z
-image: /assets/images/p1100483.jpg
+image:
 description: "Bentham to\tBrampton"
 ---
 
