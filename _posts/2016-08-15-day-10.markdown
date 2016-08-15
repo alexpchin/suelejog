@@ -3,7 +3,7 @@ layout: post
 title: Day 10
 date: 2016-08-15T00:00:00.000Z
 image: /assets/images/p1100615.jpg
-description: Peebles to Dollar
+description: Peebles to Glendevon
 ---
 
 
