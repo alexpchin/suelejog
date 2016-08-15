@@ -7,3 +7,10 @@ description: Brampton to Peebles
 ---
 
 
+* Cyclists accompanying = Nigel, Bryan
+* Departure Brampton = 9.55am
+* Miles cycled = 70.1
+* Total ascent = 4,971ft&nbsp;
+* Wrong turns = 1&nbsp;
+* Counties = Cumbria, Dumfries & Galloway, Scottish Borders
+* Arrival in Peebles =&nbsp;[‪6.30pm](x-apple-data-detectors://6/)
