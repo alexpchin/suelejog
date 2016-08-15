@@ -8,7 +8,7 @@ description: Brampton to Peebles
 
 
 * Cyclists accompanying = Nigel, Bryan
-* Departure Brampton = 9.55am
+* Departure from Brampton = 9.55am
 * Miles cycled = 70.1
 * Total ascent = 4,971ft&nbsp;
 * Wrong turns = 1&nbsp;
