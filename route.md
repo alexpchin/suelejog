@@ -93,7 +93,7 @@ Peebles to Dollar, Clackmannshire - 63 miles
 
 *Passing through Leadburn, Queensferry, Inverkeithing, Cowdenbeath and Crook of Devon*
 
-Staying at Tormaukin Inn
+Staying at [Tormaukin Inn](http://www.tormaukinhotel.co.uk/)
 
 <u><strong>Tuesday 16 August (Day 11)</strong></u>
 
