@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Day 12"
-date:   2016-08-17 09:00:00 +0000
-image: /assets/images/coming-soon.png
+title: Day 12
+date: 2016-08-17T00:00:00.000Z
+image: /assets/images/p1100756.jpg
 description: Glenshee to Grantown-on-Spey
 ---
+
+
