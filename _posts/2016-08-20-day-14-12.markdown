@@ -8,7 +8,7 @@ description: "Melvich to John O'Groats"
 
 
 * Cyclists accompanying = Jo W&nbsp;
-* Departure &nbsp;Melvich = 9.45&nbsp;[‪am](x-apple-data-detectors://0)
+* Departure &nbsp;Melvich = 9.45am
 * Miles cycled = 37.5 (cumulative = 987.1 The journey from Much Wenlock to Little Wenlock will be completed on Tuesday)
 * Ascent = 1,463ft (cumulative 64,349ft)
 * Wrong turns = 0 (1 road all the way)&nbsp;
